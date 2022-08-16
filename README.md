@@ -2,7 +2,7 @@
 
 Deep learning project on summarizing multiple Amazon reviews of a product into keywords and presenting them in a word cloud.
 
-Authors (ordered alphabetically by last name): [Yuying Fan](https://github.com/fyy26), [Rehaan Furniturewala](https://github.com/r3khaan), Andrew Raine
+Authors (ordered alphabetically by last name): [Yuying Fan](https://github.com/fyy26), [Rehaan Furniturewala](https://github.com/r3khaan), [Andrew Raine](https://github.com/andrewlr09)
 
 ## Problem of Interest
 Even though online shoppers have thousands of reviews to learn about each product, they lack the time to read each review and make the optimal purchasing decision.
@@ -10,7 +10,7 @@ Even though online shoppers have thousands of reviews to learn about each produc
 ## Dataset
 We used a dataset of [Amazon Reviews](https://nijianmo.github.io/amazon/index.html) from a research group at the University of California San Diego. The dataset that we are able to access, a “small” subset of the full set, contains 75,257,650 reviews that we can train on.
 
-Each review is of the format: `(overall_score, verified_purchase, review_time, reviewer_id, product_id, style, reviewer_name, review_text, summary)`
+Each review is of the format: `(overall_score, verified_purchase, review_time, reviewer_id, product_id, style, reviewer_name, review_text, summary)`.
 
 We used a BERT tokenizer across all our models for generating word embeddings.
 
