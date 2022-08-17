@@ -2,7 +2,11 @@
 
 Deep learning project on summarizing multiple Amazon reviews of a product into keywords and presenting them in a word cloud.
 
-Authors (ordered alphabetically by last name): [Yuying Fan](https://github.com/fyy26), [Rehaan Furniturewala](https://github.com/r3khaan), [Andrew Raine](https://github.com/andrewlr09)
+## Authors
+Authors are ordered alphabetically by last name.
+- Yuying Fan ([@fyy26](https://github.com/fyy26))
+- Rehaan Furniturewala ([@r3khaan](https://github.com/r3khaan))
+- Andrew Raine ([@andrewlr09](https://github.com/andrewlr09))
 
 ## Problem of Interest
 Even though online shoppers have thousands of reviews to learn about each product, they lack the time to read each review and make the optimal purchasing decision.
